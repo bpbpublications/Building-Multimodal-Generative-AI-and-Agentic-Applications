@@ -1,0 +1,27 @@
+# Qdrant vector database client with native FastEmbed support
+qdrant-client[fastembed]>=1.14.2
+
+# Embedding and model inference
+sentence-transformers==2.2.2           # For BAAI/bge-small-en
+transformers>=4.39.0                   # For CLIP, ColBERT, Mistral, etc.
+torch>=2.0.0                           # Required by most transformer models
+
+# LangChain v0.3 orchestration stack
+langchain==0.3.0
+langchain-community                   # Integration layer for Ollama, vector DBs
+langchain-core
+
+# Ollama for local LLM inference (e.g., Mistral)
+ollama>=0.1.0
+
+# Prompt handling, token counting, and tool construction
+tiktoken
+
+
+# Image and text preprocessing
+Pillow
+opencv-python
+scikit-learn
+
+# Utility tools
+

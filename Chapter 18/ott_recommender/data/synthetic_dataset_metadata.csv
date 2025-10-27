@@ -1,0 +1,16 @@
+Label,Description
+user_id,Unique identifier for the user.
+title,Title of the content item.
+synopsis,A brief summary of the content.
+age_restriction,"Age restriction category of the content (e.g., '13', '16')."
+duration_minutes,Approximate duration of the content in minutes.
+genre,Primary genre classification of the content.
+episode_title,Specific title of the episode if part of a series.
+season_number,Season number for the series content.
+episode_number,Episode number within the season.
+live_event_flag,Boolean flag indicating if the content is a live event.
+channel_name,Name of the channel or streaming platform.
+actors,Main actors featured in the content.
+directors,Directors involved in the creation of the content.
+primary_theme,The main theme or subject matter of the content.
+likes,"Indicates whether the user liked the content (1 = liked, 0 = not liked)."

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jjj/myproject/Neo4J_implementation_with_text2Cypher/mlruns/0/a34163048d12413a88327f3a53c21819/artifacts
+end_time: 1752746546704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a34163048d12413a88327f3a53c21819
+run_name: illustrious-cub-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752746540385
+status: 3
+tags: []
+user_id: jjj

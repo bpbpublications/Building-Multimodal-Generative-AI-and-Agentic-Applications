@@ -1,0 +1,2 @@
+MATCH (m:Movie)<-[:AVAILABLE_ON]-(p:Platform)
+RETURN m.title, m.release_year, p.name

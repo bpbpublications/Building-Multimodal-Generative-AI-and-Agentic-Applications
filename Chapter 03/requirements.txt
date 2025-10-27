@@ -1,0 +1,7 @@
+
+langchain
+langchain-community
+chromadb
+ollama
+reportlab
+rank_bm25

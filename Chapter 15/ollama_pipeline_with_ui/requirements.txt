@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+sentence-transformers
+chromadb
+trino
+redis
+requests
+ollama
+fastapi
+uvicorn
+sqlite3

@@ -1,0 +1,3 @@
+MATCH (m:Movie)-[:AVAILABLE_ON]->(p:Platform), (a:Actor)-[:ACTED_IN]->(m)
+WHERE m.genre = "Action"
+RETURN m.title, p.name, collect(a.name) AS actors

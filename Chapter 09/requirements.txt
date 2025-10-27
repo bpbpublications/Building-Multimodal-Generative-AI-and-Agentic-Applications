@@ -1,0 +1,12 @@
+streamlit
+chromadb
+llama-index
+langchain
+langchain-community
+langchain-nomic
+sentence-transformers
+transformers
+pillow
+pypdf
+scikit-learn
+numpy

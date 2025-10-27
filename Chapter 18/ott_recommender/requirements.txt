@@ -1,0 +1,27 @@
+# LLM & LangChain
+langchain>=0.1.14
+ollama>=0.1.7
+
+# Neo4j Runway
+#neo4j-runway
+networkx
+
+# Transformers (for reranking)
+transformers>=4.36
+torch>=2.1.0
+
+# Embeddings & Vector Indexing
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+nomic
+
+# LlamaIndex for semantic graph
+llama-index-core>=0.10.20
+llama-index-embeddings-nomic>=0.1.4
+
+# Data & Parsing
+pandas>=2.1.0
+numpy>=1.24.0
+
+# I/O Utilities
+tqdm

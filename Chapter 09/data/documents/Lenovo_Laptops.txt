@@ -1,0 +1,5 @@
+Processor: Intel Core i5-12450H | Speed: 2.0 GHz (Base) - 4.4 GHz (Max) | 8 Cores | 12 Threads | 12MB Cache
+Display: 14" FHD (1920x1080) | 250Nits Brightness | Anti Glare |TUV Low Blue Light Certified
+Memory and Storage: 16GB RAM LPDDR5-4800, soldered memory, not upgradable | 512GB SSD M.2 2242 PCIe 4.0x4 NVMe
+OS and Software: Windows 11 Home Single Language | Office Home 2024 | Xbox GamePass Ultimate 3-month subscription
+Design: 4 side narrow bezel | 1.79 cm Ultra Thin & 1.37 kg Light || Smart Learning Features : Lenovo Aware | Whisper Voice | Eye Care

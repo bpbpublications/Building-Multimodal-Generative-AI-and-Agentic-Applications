@@ -1,0 +1,5 @@
+AI Enabled Processor : AMD Ryzen AI 9 HX 370 Processor 2.0GHz (36MB Cache, up to 5.1GHz, 12 cores, 24 Threads) AMD XDNA NPU up to 50TOPS Designed for smooth gameplay
+Graphics : 8GB GDDR6, NVIDIA GeForce RTX 4060 Laptop GPU (233 AI TOPs), 2225Mhz* at 100W(2175MHz Boost Clock+50MHz O.C.,75W+25W Dynamic Boost)
+Memory : 32GB LPDDR5X RAM|Storage : 2TB PCIe 4.0 NVMe M.2 SSD
+Display : 14-inch,2.5K (2560 x 1600, WQXGA) 16:10 aspect ratio,165Hz Refresh Rate,400nits Brightness
+Battery : 73WHrs, 4S1P, 4-cell Li-ion,Fast Charging : Recharge from 0-50% in 30 minutes

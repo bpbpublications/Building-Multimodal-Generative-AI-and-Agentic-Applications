@@ -1,0 +1,4 @@
+	•	Processor : 13th Gen, Intel Core i3-1315U Processor 1.2 GHz (10M Cache, up to 4.5 GHz, 6 cores)
+	•	Display : 60.45 cms (23.8) Wide view FHD (1920 x 1080) Anti-glare display having 16:09 Aspect Ratio || 250nits Brightness || 100Hz Refresh rate
+	•	Memory : 8GB DDR5 SO-DIMM RAM expandable upto 32GB using 2x DDR5 SO-DIMM slots | Storage : 512GB M.2 NVMe PCIe 4.0 SSD
+	•	Side I/O Ports : 1x Kensington lock, 1x 2-in-1 card reader SD / MMC, 1x 3.5mm combo audio jack, 1x USB 2.0 Type-A | Back I/O Ports : 1x DC-in, 1x RJ45 Gigabit Ethernet, 1x HDMI in 1.4, 1x HDMI out 1.4, 1x USB 2.0 Type-A, 1x USB 3.2 Gen 1 Type-C, 3x USB 3.2 Gen 1 Type-A

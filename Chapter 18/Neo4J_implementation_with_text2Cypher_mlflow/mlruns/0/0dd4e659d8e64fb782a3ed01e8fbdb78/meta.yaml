@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/jjj/myproject/Neo4J_implementation_with_text2Cypher/mlruns/0/0dd4e659d8e64fb782a3ed01e8fbdb78/artifacts
+end_time: 1752748217413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dd4e659d8e64fb782a3ed01e8fbdb78
+run_name: honorable-turtle-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752748217409
+status: 3
+tags: []
+user_id: jjj

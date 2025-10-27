@@ -1,0 +1,5 @@
+Processor: Intel Core i5-1335U (up to 4.6 GHz with Intel Turbo Boost Technology, 12 MB L3 cache, 10 cores, 12 threads)|
+Memory: 16 GB DDR4-3200 MHz RAM (2 x 8 GB)|Storage: 1 TB PCIe NVMe M.2 SSD
+Display & Graphics:68.6 cm (27") diagonal, FHD touch, IPS, three-sided micro-edge, glossy, Brightness: 300nits Color Gamut: 72% NTSC Resolution: 1920 x 1080| Graphics: Intel UMA Graphics
+Operating system & software: Windows 11 Home Single Language in S mode| Microsoft Office 2021| 1 month trial for new Microsoft 365 customers
+Ports:2 USB 2.0 Type-A;2 USB Type-A 5Gbps signaling rate;1 USB Type-C 5Gbps signaling rate,1 RJ-45

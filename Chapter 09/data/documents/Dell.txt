@@ -1,0 +1,8 @@
+
+Processor: Intel Core i7-14700F Processor 2.1GHz (33M Cache, up to 5.3GHz, 20 cores)
+Memory: 16GB DDR5 U-DIMM | Storage: 1TB M.2 2280 NVMe PCIe 4.0 SSD
+Graphics: NVIDIA GeForce RTX4060 DUAL 8GB GDDR6：3xDP, 1x HDMI
+Motherboard: Intel B760 Chipset | Thermal: Air Cooler | Serial ATA: 6 x SATA 6.0Gb/s ports | Power: 700W power supply (80+ Bronze, peak 750W)
+Chassis: Size: 27 Litres | Weight: 8Kg | Color: Extreme Dark Gray | Form Factor - Tower
+Operating System: Pre-Loaded Windows 11 Home with Lifetime Validity | Software Included: Microsoft Office Home & Student 2021
+Other: Wi-Fi 6E(802.11ax) (Dual band) 2*2 + Bluetooth 5.3 Wireless Card | Audio: High Definition 7.1 Channel Audio

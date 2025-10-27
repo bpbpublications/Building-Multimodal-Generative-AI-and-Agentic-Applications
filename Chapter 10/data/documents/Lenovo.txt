@@ -1,0 +1,5 @@
+Processor: 13th Gen Intel Core i3-13100 | Speed: 3.4 GHz (Base) - 4.5 GHz (Max) | 4 Cores | 8 Threads | 12MB Cache
+Memory and Storage: 1x 8GB UDIMM DDR4-3200, expandable up to 32GB | Storage: 512GB SSD, Expandable upto 1TB
+Graphics: Integrated Intel UHD Graphics 730 || SOFTWARE :- Windows 11 Home Single Language, English | Office Home & Student 2021
+Connectivity: Wi-Fi 6, 802.11ax 2x2 | Bluetooth 5.1
+Ports: 2x USB 2.0 | 2x USB 3.2 Gen 1 | 1x HDMI 2.1 TMDS | 1x VGA | 1x Ethernet (RJ-45) | 1x audio-out (3.5mm)

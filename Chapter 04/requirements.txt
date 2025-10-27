@@ -1,0 +1,10 @@
+# requirements.txt
+
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+reportlab
+rank_bm25
+pypdf
+openai
